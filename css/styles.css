@@ -343,22 +343,22 @@ select:hover {
   }
 
   .header-title {
-    font-size: 1em !important;
+    font-size: 2em !important;
     font-weight: 800 !important;
   }
 
   .header-p {
-    font-size: 0.8em !important;
+    font-size: 0.9em !important;
     font-weight: 800 !important;
   }
 
   .header-photo {
-    height: 412px !important;
+    height: 250px !important;
     width: 100% !important;
   }
 
   .header-text {
-    top: 200px !important;
+    top: 50px !important;
     left: 50px !important;
     max-width: 250px !important;
   }
